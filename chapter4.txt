@@ -1,1 +1,2 @@
 This is chapter 4 of the story. And this is from the edit branch.
+Again I added some new texts.
